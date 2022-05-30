@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhee-hub
-- 👀 I’m interested in learning new things in backend procet
+- 👀 I’m interested in learning new things in backend process
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
